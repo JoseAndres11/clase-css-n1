@@ -1,0 +1,36 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+background-color: beige;
+padding-top: 30px;
+margin-top: 50px;
+border: 1px solid black;
+}
+header img{
+   width: 200px; ;
+}
+.bloque-logo{
+    width: 20%;
+    display: inline;
+}
+nav{
+    display: inline-block;
+    width: 60%;
+}
+header nav ul{
+    margin-left: 50px;
+}
+nav ul li{
+    margin: 15px;
+    display: inline-block;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #005780;
+    font-size: 14px;
+}
+nav ul li a:hover{
+    font-weight:bold ;
+}
